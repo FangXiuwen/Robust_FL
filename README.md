@@ -65,7 +65,7 @@ python HHF/HHF.py
 
 In the heterogeneous model scenario, we assign four different networks:ResNet10,ResNet12,ShuffleNet,Mobilenetv2
 
-![](C:\Users\PC\AppData\Roaming\marktext\images\2022-08-30-10-40-51-DI2Y0FGTIH9P{JR{UFB9ZBX.png)
+![](methods_comparison.png)
 
 # [Citation](#contents)
 
