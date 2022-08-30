@@ -2,7 +2,7 @@
 
 This repository provides resources for the following paper:
 
-> [**Robust Federated Learning with Noisy and Heterogeneous Client**]([CVPR 2022 Open Access Repository](https://openaccess.thecvf.com/content/CVPR2022/html/Fang_Robust_Federated_Learning_With_Noisy_and_Heterogeneous_Clients_CVPR_2022_paper.html)),  
+> [**Robust Federated Learning with Noisy and Heterogeneous Client**]([CVPR 2022 Open Access Repository](https://openaccess.thecvf.com/content/CVPR2022/html/Fang_Robust_Federated_Learning_With_Noisy_and_Heterogeneous_Clients_CVPR_2022_paper.html))  
 > Xiuwen Fang, [Mang Ye](https://marswhu.github.io/index.html)
 > *CVPR 2022*
 
@@ -41,9 +41,7 @@ python Network/pretrain.py
 python HHF/HHF.py
 ```
 
-# [Script Description](#contents)
-
-## [Script and Sample Code](#contents)
+# [Script and Sample Code](#contents)
 
 ```bash
 ├── Robust_FL
@@ -63,7 +61,7 @@ python HHF/HHF.py
     ├── README.md
 ```
 
-# [Comparison with Other Datasets](#contents)
+# [Comparison with the SOTA methods](#contents)
 
 In the heterogeneous model scenario, we assign four different networks:ResNet10,ResNet12,ShuffleNet,Mobilenetv2
 
