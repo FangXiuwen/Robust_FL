@@ -18,7 +18,7 @@ RHFL+ is  a further solution for the robust federated learning problem with nois
 
 # [Framework Architecture](#contents)
 
-![](C:\Users\PC\AppData\Roaming\marktext\images\2024-12-31-15-59-18-image.png)
+![](framework.png)
 
 # [Dataset](#contents)
 

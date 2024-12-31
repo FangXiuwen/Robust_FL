@@ -2,7 +2,7 @@
 
 This repository provides resources for the following paper:
 
-> [**Robust Federated Learning with Noisy and Heterogeneous Client**]([CVPR 2022 Open Access Repository](https://openaccess.thecvf.com/content/CVPR2022/html/Fang_Robust_Federated_Learning_With_Noisy_and_Heterogeneous_Clients_CVPR_2022_paper.html))  
+> [**Robust Federated Learning with Noisy and Heterogeneous Client**](https://openaccess.thecvf.com/content/CVPR2022/html/Fang_Robust_Federated_Learning_With_Noisy_and_Heterogeneous_Clients_CVPR_2022_paper.html)  
 > Xiuwen Fang, [Mang Ye](https://marswhu.github.io/index.html) *CVPR 2022*
 > 
 > [**Noise-Robust Federated Learning With Model Heterogeneous Clients**](https://ieeexplore.ieee.org/abstract/document/10816157) Xiuwen Fang, [Mang Ye](https://marswhu.github.io/index.html) *IEEE TMC*
